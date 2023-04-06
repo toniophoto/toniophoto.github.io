@@ -55,7 +55,7 @@ const Contact = () => {
                         </div>
                     </motion.div>
                     <motion.form
-                        action="https://formspree.io/f/mrgvynnk"
+                        action="https://formsubmit.co/mab27ht@gmail.com"
                         method="POST"
                         variants={fadeIn('left', 0.2)}
                         initial="hidden"
