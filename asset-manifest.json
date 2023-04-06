@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26c44aae.css",
+    "main.js": "/static/js/main.ad9c650b.js",
+    "static/media/wedding-2.webp": "/static/media/wedding-2.41b00e6cc2c77ac79729.webp",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/lan-2.jpg": "/static/media/lan-2.5dab95e47f4658df5d03.jpg",
+    "static/media/lan-3.jpg": "/static/media/lan-3.cc938e31b0160540aa6f.jpg",
+    "static/media/land-1.jpg": "/static/media/land-1.fb81bbd8f67c062c600d.jpg",
+    "static/media/TP-5.jpg": "/static/media/TP-5.4a7992a38b2d3621ece4.jpg",
+    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/land-4.jpg": "/static/media/land-4.b9934e956d2ff2c61ffe.jpg",
+    "static/media/hero.png": "/static/media/hero.9f15325036525d98ad4b.png",
+    "static/media/TP-6.jpg": "/static/media/TP-6.ac246ea910e2787299db.jpg",
+    "static/media/TP-7.jpg": "/static/media/TP-7.9c7446cc31bc69d23d66.jpg",
+    "static/media/TP-10.jpg": "/static/media/TP-10.fce53941d62b34852ef6.jpg",
+    "static/media/TP-13.jpg": "/static/media/TP-13.5a8e379827d2fbe60009.jpg",
+    "static/media/TP-8.jpg": "/static/media/TP-8.14546c4764b4a36dfb1a.jpg",
+    "static/media/land-5.jpg": "/static/media/land-5.c122d145ab1d16c771b6.jpg",
+    "static/media/land-7.jpg": "/static/media/land-7.2acc7d0cdf6a1317a47c.jpg",
+    "static/media/TP-3.jpg": "/static/media/TP-3.de24789b32a6ce084214.jpg",
+    "static/media/land-6.jpg": "/static/media/land-6.91b38d48db65470e7206.jpg",
+    "static/media/TP-11.jpg": "/static/media/TP-11.299d53c5c8259abb59dc.jpg",
+    "static/media/TP-2.jpg": "/static/media/TP-2.b50604e1a2efaea71072.jpg",
+    "static/media/about.png": "/static/media/about.1cf597195d9de03bee40.png",
+    "static/media/studio-2.webp": "/static/media/studio-2.5805a302f897f4133288.webp",
+    "static/media/portrait.webp": "/static/media/portrait.8bd6e715ac745bddbbd2.webp",
+    "index.html": "/index.html",
+    "main.26c44aae.css.map": "/static/css/main.26c44aae.css.map",
+    "main.ad9c650b.js.map": "/static/js/main.ad9c650b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c44aae.css",
+    "static/js/main.ad9c650b.js"
+  ]
+}
