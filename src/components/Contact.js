@@ -66,18 +66,23 @@ const Contact = () => {
                         <input
                             className=" bg-transparent border-b py-3 outline-none w-full placeholder:text-white focus:border-accent transition-all"
                             type="text"
+                            name="name"
                             placeholder="Your Name"
                         />
                         <input
                             className=" bg-transparent border-b py-3 outline-none w-full placeholder:text-white focus:border-accent transition-all"
                             type="text"
+                            name="email"
                             placeholder="Your Email"
                         />
                         <textarea
                             className=" bg-transparent border-b py-12 outline-none w-full placeholder:text-white focus:border-accent transition-all resize-none mb-12"
                             placeholder="Your message"
+                            name="message"
                         ></textarea>
-                        <button className="btn btn-lg">Send message</button>
+                        <button type="submit" className="btn btn-lg">
+                            Send message
+                        </button>
                     </motion.form>
                 </div>
             </div>
