@@ -44,9 +44,7 @@ const Services = () => {
                             offset={0}
                             duration={500}
                         >
-                            <a href="/" className="inline-block">
-                                Contact
-                            </a>
+                            <p className="inline-block">Contact</p>
                         </Link>
                     </motion.div>
                     <motion.div

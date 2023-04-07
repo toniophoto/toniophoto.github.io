@@ -60,7 +60,9 @@ const About = () => {
                                             end={7}
                                             duration={5}
                                         />
-                                    ) : null}
+                                    ) : (
+                                        7
+                                    )}
                                     +
                                 </div>
                                 <div className=" font-primary text-sm tracking-[2px]">
@@ -76,7 +78,9 @@ const About = () => {
                                             end={500}
                                             duration={3}
                                         />
-                                    ) : null}
+                                    ) : (
+                                        500
+                                    )}
                                     +
                                 </div>
                                 <div className=" font-primary text-sm tracking-[2px]">
@@ -92,7 +96,9 @@ const About = () => {
                                             end={2000}
                                             duration={3}
                                         />
-                                    ) : null}
+                                    ) : (
+                                        2000
+                                    )}
                                     +
                                 </div>
                                 <div className=" font-primary text-sm tracking-[2px]">
@@ -115,15 +121,12 @@ const About = () => {
                                 offset={0}
                                 duration={500}
                             >
-                                <a href="/">Contact</a>
+                                Contact
                             </Link>
                             <RouterLink to={'/gallery'}>
-                                <a
-                                    href="/"
-                                    className="text-gradient uppercase text-lg tracking-wider"
-                                >
+                                <p className="text-gradient uppercase text-lg tracking-wider">
                                     Gallerie
-                                </a>
+                                </p>
                             </RouterLink>
                         </motion.div>
                     </motion.div>

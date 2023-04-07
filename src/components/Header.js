@@ -71,21 +71,18 @@ const Header = () => {
                         className=" flex items-center justify-center md:justify-start gap-4 lg:gap-10"
                     >
                         <Link
-                            className="btn btn-sm uppercase text-lg tracking-wider flex items-center justify-center"
+                            className="btn btn-sm uppercase text-lg tracking-wider flex items-center justify-center cursor-pointer"
                             to="contact"
                             spy={true}
                             offset={0}
                             duration={500}
                         >
-                            <a href="/">Contact</a>
+                            Contact
                         </Link>
                         <RouterLink to={'/gallery'}>
-                            <a
-                                href="/"
-                                className="text-gradient uppercase text-lg tracking-wider"
-                            >
+                            <p className="text-gradient uppercase text-lg tracking-wider">
                                 Gallerie
-                            </a>
+                            </p>
                         </RouterLink>
                     </motion.div>
                     <motion.div

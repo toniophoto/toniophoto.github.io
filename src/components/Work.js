@@ -30,7 +30,7 @@ const Work = () => {
                             </p>
                             <RouterLink to={'/gallery'}>
                                 <button className="btn btn-sm">
-                                    View All Projects
+                                    Voir toute la gallerie
                                 </button>
                             </RouterLink>
                         </div>
@@ -45,8 +45,8 @@ const Work = () => {
                                 <span className=" text-gradient">Portrait</span>
                             </div>
                             <div className=" absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                                <span className=" text-3xl text-white">
-                                    Votre lieu naturel d’expression.
+                                <span className=" text-2xl text-white">
+                                    Votre expression naturel.
                                 </span>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ const Work = () => {
                                 </span>
                             </div>
                             <div className=" absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                                <span className=" text-3xl text-white">
+                                <span className=" text-2xl text-white">
                                     Marquez votre histoire
                                 </span>
                             </div>
@@ -89,7 +89,7 @@ const Work = () => {
                                 </span>
                             </div>
                             <div className=" absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                                <span className=" text-3xl text-white">
+                                <span className=" text-2xl text-white">
                                     La valeur de vos produits...
                                 </span>
                             </div>
