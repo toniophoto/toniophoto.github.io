@@ -3,7 +3,7 @@ import { BsWhatsapp } from 'react-icons/bs';
 const Banner = () => {
     return (
         <div className="container mx-auto flex justify-between items-center mt-3">
-            <h1 className=" font-extrabold text-3xl text-gradient uppercase md:text-4xl">
+            <h1 className=" font-extrabold text-3xl text-gradient uppercase md:text-4xl cursor-pointer">
                 Tonio
             </h1>
             <a
