@@ -8,14 +8,14 @@ import Contact from '../components/Contact';
 
 const Home = () => {
     return (
-        <div className="bg-site bg-no-repeat bg-cover overflow-hidden">
+        <main className="bg-site bg-no-repeat bg-cover overflow-hidden">
             <Header />
             <Nav />
             <About />
             <Services />
             <Work />
             <Contact />
-        </div>
+        </main>
     );
 };
 

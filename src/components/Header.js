@@ -31,7 +31,7 @@ const Header = () => {
                         viewport={{ once: false, amount: 0.7 }}
                         className=" font-secondary font-semibold text-[30px] uppercase mb-6 tracking-wide lg:text-[40px]"
                     >
-                        Je suis un{' '}
+                        Je suis un
                         <span className=" text-accent">
                             {
                                 <TypeAnimation
@@ -99,7 +99,11 @@ const Header = () => {
                         >
                             <BsFacebook />
                         </a>
-                        <a href="0" target="_blank" rel="noreferrer">
+                        <a
+                            href="https://twitter.com/MaxAntoineberna?t=J2j_l8jht7rfMPzLn0sZuA&s=09"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
                             <BsTwitter />
                         </a>
                         <a

@@ -72,13 +72,6 @@ const Gallery = () => {
                                         alt="Portrait d'une jeune fille debout"
                                     />
                                 </div>
-                                {/* <div className=" overflow-hidden">
-                                    <img
-                                        src={Land4}
-                                        className=" hover:scale-125 transition-all duration-500"
-                                        alt="Portrait d'un jeune homme debout"
-                                    />
-                                </div> */}
                                 <div className=" overflow-hidden">
                                     <img
                                         src={Tp6}
